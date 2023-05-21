@@ -7,7 +7,7 @@
   <<
     \chords {
       \tempo 4 = 190
-      \mark "Capo 3rd fret (B=G, Ab=F, Dm=Hm, Cm=Am, Eb=C, F=D)"
+      \mark "Capo im 3. Bund (gegriffenes G => gespieltes B)"
       \germanChords
       \set chordChanges = ##t
       \transpose a bes {
