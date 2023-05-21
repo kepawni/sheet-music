@@ -33,9 +33,9 @@
           r4^"G" a8 a4. b8 d~ d4 cis8 b( a4.) e8 d'4 cis b8 a4 e'8~ e1^"Hm" \break
           r4^"F" d8 d4 d d8~ d^"Am" d4 d d4. d8^"G" cis4 cis8~ cis2~ cis2 r4 b8 cis \break
           d8^"F" d4 d4. d8 d~ d4^"C" cis8 b4. a8 a~ a4^"Dsus4" r8 e a b cis4 b2.^"D" a4 \break
-          r4^"G" << { e'4. d4. cis4.^"C" b8( a4) cis( b2.)^"D" } { e,4. e4. e4. fis8~ fis4 e4( e2.) } >> b8 cis d4. cis4. b8 a( \break
-          a4)^"G" << { e''4. d4. cis4.^"C" b8( a4) cis( b2.)^"D" } { e,4. e4. e4. fis8~ fis4 e4( e2.) } >> b8 cis d4. cis4. b8 a( \break
-          a4)^"G" << { e''4. d4. cis4.^"C" b8( a4) cis( b2.)^"D" } { e,4. e4. e4. fis8~ fis4 e4( e2.) } >> b8 cis d4. cis4. b4 \break
+          r4^"G" << { e'4. d4. cis4.^"C" b8( a4) cis( b2.)^"D" } { e,4. e4. e4. fis8~ fis4 e4( e2.) } >> b'8 cis d4. cis4. b8 a( \break
+          a4)^"G" << { e'4. d4. cis4.^"C" b8( a4) cis( b2.)^"D" } { e,4. e4. e4. fis8~ fis4 e4( e2.) } >> b'8 cis d4. cis4. b8 a( \break
+          a4)^"G" << { e'4. d4. cis4.^"C" b8( a4) cis( b2.)^"D" } { e,4. e4. e4. fis8~ fis4 e4( e2.) } >> b'8 cis d4. cis4. b4 \break
           b1~^"F" b1
       }
     }
