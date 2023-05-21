@@ -19,7 +19,7 @@
         a, d, e, e,
         a, d, e, e,
         a, d, e, e,
-        g, g,
+        g, g, a,
       }
     }
     \transpose a bes {
@@ -36,7 +36,7 @@
           r4^"G" << { e'4. d4. cis4.^"C" b8( a4) cis( b2.)^"D" } { e,4. e4. e4. fis8~ fis4 e4( e2.) } >> b'8 cis d4. cis4. b8 a( \break
           a4)^"G" << { e'4. d4. cis4.^"C" b8( a4) cis( b2.)^"D" } { e,4. e4. e4. fis8~ fis4 e4( e2.) } >> b'8 cis d4. cis4. b8 a( \break
           a4)^"G" << { e'4. d4. cis4.^"C" b8( a4) cis( b2.)^"D" } { e,4. e4. e4. fis8~ fis4 e4( e2.) } >> b'8 cis d4. cis4. b4 \break
-          b1~^"F" b1
+          b4^"F" b b8 a g c~ c b4 a b a8~ a1^"G"
       }
     }
     \addlyrics {
@@ -47,7 +47,7 @@
       has -- n't been your day, __ your week, your month, __ or e -- ven your year.
       But I'll be there for __ you, __ when the rain starts to pour. __
       I'll be there for __ you, __ like I've been there be -- fore. __
-      I'll be there for __ you, __ 'cos you're there for me, too. __
+      I'll be there for __ you, __ 'cos you're there for me, too.
     }
   >>
   \layout { }
