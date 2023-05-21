@@ -1,8 +1,7 @@
 \header {
-  title = "I'll Be There for You"
+  title = "I'll Be There For You"
   composer = "The Rembrandts"
 }
-
 
 \score {
 %  \transpose f' c' {
